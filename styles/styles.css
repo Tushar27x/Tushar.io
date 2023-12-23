@@ -1,11 +1,9 @@
 *{
     margin: 0;
+    overflow-x: hidden;
 }
 html{
     scroll-behavior: smooth;
-}
-body{
-    padding: auto 12rem;
 }
 ul{
     list-style-type: none;
@@ -26,7 +24,6 @@ h1{
     height: 5.875rem;
     padding: 0 3.12rem ;
     align-items: center;
-    gap: 45.25rem;
     align-self: stretch;
     background: #222;
 }
@@ -42,7 +39,7 @@ h1{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 30.375rem;
+    width: 64.375rem;
     height: 3.0625rem;
     gap: 2rem;
 }
