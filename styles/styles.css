@@ -107,7 +107,7 @@ h1{
 }
 .about-img{
     content: url('./images/profile.png');
-    margin-right: 6rem;
+    width: 63rem;
 }
 #Skills{
     padding: 5rem 15rem 5rem 15rem;
